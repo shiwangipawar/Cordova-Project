@@ -1,0 +1,46 @@
+{
+    "cordova-plugin-dialogs": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\soul\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova-plugins\\cordova-plugin-dialogs"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-vibration": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-vibration"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\soul\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova-plugins\\cordova-plugin-device"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "intel.xdk.device": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/01org/cordova-plugin-intel-xdk-device.git",
+            "subdir": ".",
+            "ref": "r1.2.5"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.mesmotronic.plugins.fullscreen": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mesmotronic/cordova-fullscreen-plugin.git",
+            "subdir": ".",
+            "ref": "v1.0.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
